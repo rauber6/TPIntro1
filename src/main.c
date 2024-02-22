@@ -1,1 +1,3 @@
-//lol
+void main(){
+    return;
+}
